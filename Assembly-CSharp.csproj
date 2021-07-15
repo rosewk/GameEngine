@@ -60,6 +60,8 @@
     <Compile Include="Assets\Scenes\Scripts\movementtest.cs" />
     <Compile Include="Assets\Scenes\testing script\PlayerController.cs" />
     <Compile Include="Assets\Scenes\testing script\moving.cs" />
+    <Compile Include="Assets\DestructableTile.cs" />
+    <Compile Include="Assets\destructalbeTile.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
